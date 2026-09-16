@@ -1,6 +1,6 @@
 {
-  "name": "PW-MARCO — Free Batches, Lectures & Notes",
-  "short_name": "PW-MARCO",
+  "name": "CODEX STUDYS — Free Batches, Lectures & Notes",
+  "short_name": "CODEX STUDYS",
   "description": "Browse free study batches, lectures and notes in one clean app.",
   "start_url": "/",
   "scope": "/",
@@ -9,8 +9,6 @@
   "background_color": "#080a0f",
   "theme_color": "#080a0f",
   "icons": [
-    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    { "src": "/codexstudys-logo.jpg", "sizes": "640x640", "type": "image/jpeg", "purpose": "any maskable" }
   ]
 }
